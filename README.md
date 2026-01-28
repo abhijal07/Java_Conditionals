@@ -1,2 +1,20 @@
-# Java_Conditionals
-Beginner Java programs demonstrating conditional statements such as if, if-else, and else-if.
+# Java Conditionals
+
+This repository contains beginner-level Java programs that demonstrate
+the use of conditional statements.
+
+## Topics Covered
+- if statement
+- if-else statement
+- else-if ladder
+- Nested conditions
+
+## Programs Included
+- IfElseDemo
+- EvenOdd
+- LargestOfThree
+- LeapYear
+- GradeCalculator
+
+Language: Java  
+Level: Beginner
